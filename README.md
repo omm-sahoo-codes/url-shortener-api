@@ -5,22 +5,22 @@
 
 A production-ready URL shortener API that converts long URLs into short, shareable links with automatic redirects and click tracking analytics.
 
-## ✨ Features
+##  Features
 
-- ✅ Shorten any URL to a 6-character unique code
-- ✅ Automatic HTTP redirects (302) to original URLs
-- ✅ Click tracking with real-time analytics
-- ✅ Custom aliases support (e.g., `/myresume`)
-- ✅ Interactive API documentation (Swagger UI)
-- ✅ In-memory storage (ready for database integration)
+-  Shorten any URL to a 6-character unique code
+-  Automatic HTTP redirects (302) to original URLs
+-  Click tracking with real-time analytics
+-  Custom aliases support (e.g., `/myresume`)
+-  Interactive API documentation (Swagger UI)
+-  In-memory storage (ready for database integration)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **FastAPI** - Modern Python web framework
 - **Uvicorn** - ASGI server for high performance
 - **Pydantic** - Data validation
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.12 or higher
